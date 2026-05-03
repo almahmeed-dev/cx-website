@@ -1,0 +1,7 @@
+# GitHub Pages configuration for CoworkX
+title: CoworkX
+description: Modular productivity workspace for macOS
+url: "https://almahmeed.github.io"
+baseurl: "/coworkx"
+repository: almahmeed/coworkx
+theme: jekyll-theme-cayman
